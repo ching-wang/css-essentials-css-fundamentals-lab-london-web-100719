@@ -32,4 +32,5 @@ p#featured-property {
 
 div  {
   display: block;
+  float: left;
 }

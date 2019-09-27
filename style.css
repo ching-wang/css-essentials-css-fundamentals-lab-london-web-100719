@@ -27,9 +27,6 @@ section > p {
   margin: auto;
 }
 
-p#featured-property {
-  text-align: center;
-}
 
 div {
   display: block;

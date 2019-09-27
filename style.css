@@ -15,7 +15,7 @@ figcaption {
   font-size: 20px;
 }
 
-p#featured-property {
+section > p{
   width: 800px;
 }
 

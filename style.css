@@ -12,6 +12,8 @@ nav > a {
   padding: 0 10px 0 10px; 
   background-color: green;
   color: white;
+  text-align: center;
+}
 }
 
 figcaption {
